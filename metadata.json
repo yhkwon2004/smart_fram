@@ -1,0 +1,6 @@
+{
+  "name": "초록친구",
+  "description": "발달장애 아동 참여형 스마트팜 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Flower Pot in safe zone -->
+    <path
+        android:fillColor="#FFE8D6"
+        android:pathData="M38,62 L70,62 L66,80 A4,4 0 0,1 62,84 L46,84 A4,4 0 0,1 42,80 Z" />
+    <path
+        android:fillColor="#E6AF7E"
+        android:pathData="M35,57 L73,57 A3,3 0 0,1 76,60 L76,62 L32,62 L32,60 A3,3 0 0,1 35,57 Z" />
+    <!-- Plant Stem -->
+    <path
+        android:fillColor="#55A630"
+        android:pathData="M51,46 L57,46 L56,58 L52,58 Z" />
+    <!-- Left Leaf -->
+    <path
+        android:fillColor="#80B918"
+        android:pathData="M52,48 C42,48 34,42 34,36 C34,44 44,52 52,50 Z" />
+    <!-- Right Big Sprout Leaf -->
+    <path
+        android:fillColor="#99D98C"
+        android:pathData="M55,44 C67,40 76,28 72,24 C62,24 53,35 55,44 Z" />
+    <!-- Character Face in Center Sprout Head -->
+    <path
+        android:fillColor="#D8F3DC"
+        android:pathData="M54,34 A14,14 0 1,0 54,62 A14,14 0 1,0 54,34 Z" />
+    <!-- Eyes -->
+    <path
+        android:fillColor="#2D6A4F"
+        android:pathData="M48,46 A2,2 0 1,0 48,50 A2,2 0 1,0 48,46 Z" />
+    <path
+        android:fillColor="#2D6A4F"
+        android:pathData="M60,46 A2,2 0 1,0 60,50 A2,2 0 1,0 60,46 Z" />
+    <!-- Blush -->
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M45,51 A1.8,1.2 0 1,0 45,53.4 A1.8,1.2 0 1,0 45,51 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M63,51 A1.8,1.2 0 1,0 63,53.4 A1.8,1.2 0 1,0 63,51 Z" />
+    <!-- Smile -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2D6A4F"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M51,52 Q54,55 57,52" />
+    <!-- Tiny Water Droplet decoration -->
+    <path
+        android:fillColor="#4EA8DE"
+        android:pathData="M70,36 C70,36 74,42 74,45 A3,3 0 1,1 68,45 C68,42 70,36 70,36 Z" />
+</vector>
